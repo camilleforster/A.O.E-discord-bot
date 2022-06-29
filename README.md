@@ -7,11 +7,12 @@ Release Year: 2021
 
 An application used to send data about each club member's points individually through Discord direct messaging; built with Python, Google Sheets API, Discord API, and git, and hosted on Heroku.
 
-## Project Screen Shots
+## Project Screen Shots 
 
-#### Example:   
+![Use in general channel](https://github.com/camilleforster/A.O.E-discord-bot/blob/main/1.png?raw=true)
+![Use in direct message](https://github.com/camilleforster/A.O.E-discord-bot/blob/main/2.png?raw=true)
+![](https://github.com/camilleforster/A.O.E-discord-bot/blob/main/3.png?raw=true)
 
-![alt text](https://github.com/camilleforster/A.O.E-discord-bot/blob/main/1.png?raw=true)
 
 ## Commands
 To access this bot, you need to be in the club's official discord channel.
