@@ -11,9 +11,7 @@ An application used to send data about each club member's points individually th
 
 #### Example:   
 
-![alt text](https://github.com/camilleforster/A.O.E-discord-bot/blob/[branch]/image.jpg?raw=true)
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/camilleforster/A.O.E-discord-bot/blob/main/1.png?raw=true)
 
 ## Commands
 To access this bot, you need to be in the club's official discord channel.
