@@ -31,9 +31,6 @@ How to obtain points:
 
 `!aoe points info`  
 
-To Visit App:
-Must be in the AOE discord channel.
-
 ## Reflection
 
 This was a 2 week-long project built during my first semester of UW-Madison. Project goals included learning Python, git, and implementing APIS from scratch to succeed my vision of making the bot accessible for all new members.
