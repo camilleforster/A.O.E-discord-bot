@@ -19,14 +19,16 @@ An application used to send data about each club member's points individually th
 ## Commands
 To access this bot, you need to be in the club's official discord channel.
 
-Current point data:
+Current points data:
 
 `!aoe points `  
 
 Full list of commands:
+
 `!aoe help`  
 
-How to obtain points
+How to obtain points:
+
 `!aoe points info`  
 
 To Visit App:
